@@ -1,0 +1,808 @@
+[
+  {
+    "detailUrl": "https://www.zillow.com/homedetails/2205-Cambridge-Dr-Hurst-TX-76054/29028625_zpid/",
+    "statusType": "FOR_SALE",
+    "location_title": "House for sale",
+    "address": "2205 Cambridge Dr, Hurst, TX 76054",
+    "units": "",
+    "latLong": {
+      "latitude": 32.856297,
+      "longitude": -97.176285
+    },
+    "providerListingId": "",
+    "zpid": "29028625",
+    "agent_details": {
+      "first_name": "Russell",
+      "last_name": "Rhodes",
+      "email": "r.rhodes@rhodesteam.com",
+      "phone": "9729962503",
+      "photo_url": "https://photos.zillowstatic.com/fp/d0900210c93abca726cfb604a7ec2699-h_l.jpg"
+    }
+  },
+  {
+    "detailUrl": "https://www.zillow.com/homedetails/10555-Turtlewood-Ct-UNIT-804-Houston-TX-77072/28393293_zpid/",
+    "statusType": "FOR_SALE",
+    "location_title": "Townhouse for sale",
+    "address": "10555 Turtlewood Ct UNIT 804, Houston, TX 77072",
+    "units": "",
+    "latLong": {
+      "latitude": 29.699583,
+      "longitude": -95.565796
+    },
+    "providerListingId": "",
+    "zpid": "28393293",
+    "agent_details": {
+      "first_name": "Mark",
+      "last_name": "Dimas",
+      "email": "listings@markdimasteam.com",
+      "phone": "281-584-6354",
+      "photo_url": "https://photos.zillowstatic.com/fp/96b1a7eafab9f5cbd1439d8d69acfb86-h_l.jpg"
+    }
+  },
+  {
+    "detailUrl": "https://www.zillow.com/homedetails/244-Link-Dr-El-Paso-TX-79907/27471547_zpid/",
+    "statusType": "FOR_SALE",
+    "location_title": "House for sale",
+    "address": "244 Link Dr, El Paso, TX 79907",
+    "units": "",
+    "latLong": {
+      "latitude": 31.707214,
+      "longitude": -106.32934
+    },
+    "providerListingId": "",
+    "zpid": "27471547",
+    "agent_details": {
+      "first_name": "Fernando",
+      "last_name": "Valenzuela",
+      "email": "fernando@1stchoicerealtytx.com",
+      "phone": "915-493-9793",
+      "photo_url": "https://photos.zillowstatic.com/fp/8c59e58c1814fabf1852ff5f7458c4c0-h_l.jpg"
+    }
+  },
+  {
+    "detailUrl": "https://www.zillow.com/homedetails/14222-Saratoga-Pass-San-Antonio-TX-78254/122501062_zpid/",
+    "statusType": "FOR_SALE",
+    "location_title": "House for sale",
+    "address": "14222 Saratoga Pass, San Antonio, TX 78254",
+    "units": "",
+    "latLong": {
+      "latitude": 29.52162,
+      "longitude": -98.779144
+    },
+    "providerListingId": "",
+    "zpid": "122501062",
+    "agent_details": {
+      "first_name": "Sheba",
+      "last_name": "Ramos",
+      "email": "sheba@shebaramos.com",
+      "phone": "210-860-1779",
+      "photo_url": "https://photos.zillowstatic.com/fp/db9e4fce9f08f86ef48aace0025897a0-h_l.jpg"
+    }
+  },
+  {
+    "detailUrl": "https://www.zillow.com/homedetails/9727-Addersly-Dr-San-Antonio-TX-78254/26468518_zpid/",
+    "statusType": "FOR_SALE",
+    "location_title": "House for sale",
+    "address": "9727 Addersly, San Antonio, TX 78254",
+    "units": "",
+    "latLong": {
+      "latitude": 29.539309,
+      "longitude": -98.676315
+    },
+    "providerListingId": "",
+    "zpid": "26468518",
+    "agent_details": {
+      "first_name": "Pam",
+      "last_name": "Alvarez",
+      "email": "pamalvarez@weichertsa.com",
+      "phone": "2103635082",
+      "photo_url": "https://photos.zillowstatic.com/fp/0a5a517e6df831f84a76455382aff9d1-h_l.jpg"
+    }
+  },
+  {
+    "detailUrl": "https://www.zillow.com/homedetails/908-Rock-Falls-Dr-McKinney-TX-75071/125283126_zpid/",
+    "statusType": "FOR_SALE",
+    "location_title": "House for sale",
+    "address": "908 Rock Falls Dr, McKinney, TX 75071",
+    "units": "",
+    "latLong": {
+      "latitude": 33.27937,
+      "longitude": -96.62345
+    },
+    "providerListingId": "",
+    "zpid": "125283126",
+    "agent_details": {
+      "first_name": "Cory",
+      "last_name": "Meals",
+      "email": "cory@themealsteam.com",
+      "phone": "9033083150",
+      "photo_url": "https://photos.zillowstatic.com/fp/920f62abbed7cf8b956f6c7491265288-h_l.jpg"
+    }
+  },
+  {
+    "detailUrl": "https://www.zillow.com/homedetails/137-N-Cadence-Hills-Loop-Willis-TX-77318/331728714_zpid/",
+    "statusType": "FOR_SALE",
+    "location_title": "House for sale",
+    "address": "137 N Cadence Hills Loop, Willis, TX 77318",
+    "units": "",
+    "latLong": {
+      "latitude": 30.39911,
+      "longitude": -95.50673
+    },
+    "providerListingId": "",
+    "zpid": "331728714",
+    "agent_details": {
+      "first_name": "David",
+      "last_name": "Hageman",
+      "email": "dlhjr@sbcglobal.net",
+      "phone": "713-494-1402",
+      "photo_url": "https://photos.zillowstatic.com/fp/7ee6b8121cd2a3c7646cea812caf5d20-h_l.jpg"
+    }
+  },
+  {
+    "detailUrl": "https://www.zillow.com/homedetails/2409-Price-Dr-Killeen-TX-76542/69582775_zpid/",
+    "statusType": "FOR_SALE",
+    "location_title": "Active",
+    "address": "2409 Price Dr, Killeen, TX 76542",
+    "units": "",
+    "latLong": {
+      "latitude": 31.058743,
+      "longitude": -97.72988
+    },
+    "providerListingId": "",
+    "zpid": "69582775",
+    "agent_details": {
+      "first_name": "Levi",
+      "last_name": "Rodgers",
+      "email": "levi@levirodgersgroup.com",
+      "phone": "210-879-8220",
+      "photo_url": "https://photos.zillowstatic.com/fp/8dcbcb7128a4b67a12962ddc3203ef18-h_l.jpg"
+    }
+  },
+  {
+    "detailUrl": "https://www.zillow.com/homedetails/228-Bright-Chase-San-Antonio-TX-78253/65096884_zpid/",
+    "statusType": "FOR_SALE",
+    "location_title": "House for sale",
+    "address": "228 Bright Chase, San Antonio, TX 78253",
+    "units": "",
+    "latLong": {
+      "latitude": 29.434637,
+      "longitude": -98.742905
+    },
+    "providerListingId": "",
+    "zpid": "65096884",
+    "agent_details": {
+      "first_name": "Roman",
+      "last_name": "Svyatetskiy",
+      "email": "goldrealestaters@gmail.com",
+      "phone": "",
+      "photo_url": "https://photos.zillowstatic.com/fp/46f57ec02eea01a4ac07bae8a5b35b07-h_l.jpg"
+    }
+  },
+  {
+    "detailUrl": "https://www.zillow.com/homedetails/1930-Pueblo-Nuevo-Path-Houston-TX-77077/338048225_zpid/",
+    "statusType": "FOR_SALE",
+    "location_title": "House for sale",
+    "address": "1930 Pueblo Nuevo Path, Houston, TX 77077",
+    "units": "",
+    "latLong": {
+      "latitude": 29.743685,
+      "longitude": -95.617645
+    },
+    "providerListingId": "",
+    "zpid": "338048225",
+    "agent_details": {
+      "first_name": "Tammy",
+      "last_name": "Petterson",
+      "email": "tammy@team-tlc.com",
+      "phone": "(832) 221-8755",
+      "photo_url": "https://photos.zillowstatic.com/fp/a8f1806bc03f16400f844650b8bcae9b-h_l.jpg"
+    }
+  },
+  {
+    "detailUrl": "https://www.zillow.com/homedetails/1805-Mercer-Way-Aubrey-TX-76227/89524138_zpid/",
+    "statusType": "FOR_SALE",
+    "location_title": "House for sale",
+    "address": "1805 Mercer Way, Aubrey, TX 76227",
+    "units": "",
+    "latLong": {
+      "latitude": 33.22427,
+      "longitude": -96.89911
+    },
+    "providerListingId": "",
+    "zpid": "89524138",
+    "agent_details": {
+      "first_name": "John",
+      "last_name": "Papadopoulos",
+      "email": "johnp@jpcsells.com",
+      "phone": "214-534-4071",
+      "photo_url": "https://photos.zillowstatic.com/fp/88ac17f9798937bd9565a69273e67b9b-h_l.jpg"
+    }
+  },
+  {
+    "detailUrl": "https://www.zillow.com/homedetails/6009-Duchess-Ave-Abilene-TX-79606/53337803_zpid/",
+    "statusType": "FOR_SALE",
+    "location_title": "House for sale",
+    "address": "6009 Duchess Ave, Abilene, TX 79606",
+    "units": "",
+    "latLong": {
+      "latitude": 32.419895,
+      "longitude": -99.803894
+    },
+    "providerListingId": "",
+    "zpid": "53337803",
+    "agent_details": {
+      "first_name": "Suzanne",
+      "last_name": "Fulkerson",
+      "email": "suzanne@thefulkersongroup.com",
+      "phone": "3252744568",
+      "photo_url": ""
+    }
+  },
+  {
+    "detailUrl": "https://www.zillow.com/homedetails/15191-McRae-Lake-Conroe-TX-77303/28729619_zpid/",
+    "statusType": "FOR_SALE",
+    "location_title": "House for sale",
+    "address": "15191 McRae Lake, Conroe, TX 77303",
+    "units": "",
+    "latLong": {
+      "latitude": 30.384989,
+      "longitude": -95.33323
+    },
+    "providerListingId": "",
+    "zpid": "28729619",
+    "agent_details": {
+      "first_name": "Mary Kay",
+      "last_name": " Chaykoski",
+      "email": "marykay.chay@gmail.com",
+      "phone": "2817329997",
+      "photo_url": "https://photos.zillowstatic.com/fp/f1392a4f8f666f603effddc7602235bd-h_l.jpg"
+    }
+  },
+  {
+    "detailUrl": "https://www.zillow.com/homedetails/27807-Recanto-San-Antonio-TX-78260/250996403_zpid/",
+    "statusType": "FOR_SALE",
+    "location_title": "House for sale",
+    "address": "27807 Recanto, San Antonio, TX 78260",
+    "units": "",
+    "latLong": {
+      "latitude": 29.71027,
+      "longitude": -98.5114
+    },
+    "providerListingId": "",
+    "zpid": "250996403",
+    "agent_details": {
+      "first_name": "Danielle",
+      "last_name": "FitzGibbons",
+      "email": "daniellefitz@kw.com",
+      "phone": "210-531-6288",
+      "photo_url": "https://photos.zillowstatic.com/fp/39874ef0541018ce136f37e5a6cd17c1-h_l.jpg"
+    }
+  },
+  {
+    "detailUrl": "https://www.zillow.com/homedetails/3305-Timber-Glen-Ln-McKinney-TX-75072/65355680_zpid/",
+    "statusType": "FOR_SALE",
+    "location_title": "House for sale",
+    "address": "3305 Timber Glen Ln, McKinney, TX 75072",
+    "units": "",
+    "latLong": {
+      "latitude": 33.186935,
+      "longitude": -96.6642
+    },
+    "providerListingId": "",
+    "zpid": "65355680",
+    "agent_details": {
+      "first_name": "Sherra",
+      "last_name": "Cameron",
+      "email": "sherra@ebby.com",
+      "phone": "817-938-6226",
+      "photo_url": "https://photos.zillowstatic.com/fp/08820a395f947717fb325822e736557a-h_l.jpg"
+    }
+  },
+  {
+    "detailUrl": "https://www.zillow.com/homedetails/1122-Jackson-St-APT-209-Dallas-TX-75202/69677050_zpid/",
+    "statusType": "FOR_SALE",
+    "location_title": "Condo for sale",
+    "address": "1122 Jackson St APT 209, Dallas, TX 75202",
+    "units": "",
+    "latLong": {
+      "latitude": 32.778366,
+      "longitude": -96.80132
+    },
+    "providerListingId": "",
+    "zpid": "69677050",
+    "agent_details": {
+      "first_name": "Matt",
+      "last_name": "Templeton 972-677-3991",
+      "email": "admin@templeton.realestate",
+      "phone": "972-677-3991",
+      "photo_url": "https://photos.zillowstatic.com/fp/0e9638c8df7e91c0d2c7ec1460cf1b3a-h_l.jpg"
+    }
+  },
+  {
+    "detailUrl": "https://www.zillow.com/homedetails/904-Old-Wick-Castle-Way-Pflugerville-TX-78660/70340757_zpid/",
+    "statusType": "FOR_SALE",
+    "location_title": "Active",
+    "address": "904 Old Wick Castle Way, Pflugerville, TX 78660",
+    "units": "",
+    "latLong": {
+      "latitude": 30.472832,
+      "longitude": -97.60998
+    },
+    "providerListingId": "",
+    "zpid": "70340757",
+    "agent_details": {
+      "first_name": "Kris",
+      "last_name": "McWhorter",
+      "email": "kris@spyglassrealty.com",
+      "phone": "",
+      "photo_url": "https://photos.zillowstatic.com/fp/683834b449839cb6baf7976cc60a97cf-h_l.jpg"
+    }
+  },
+  {
+    "detailUrl": "https://www.zillow.com/homedetails/3712-Hidalgo-St-Irving-TX-75062/27115440_zpid/",
+    "statusType": "FOR_SALE",
+    "location_title": "House for sale",
+    "address": "3712 Hidalgo St, Irving, TX 75062",
+    "units": "",
+    "latLong": {
+      "latitude": 32.854565,
+      "longitude": -96.93932
+    },
+    "providerListingId": "",
+    "zpid": "27115440",
+    "agent_details": {
+      "first_name": "Chad",
+      "last_name": "Meadors",
+      "email": "chad@luxx-re.com",
+      "phone": "817 312 6473",
+      "photo_url": "https://photos.zillowstatic.com/fp/3dc4ba596b10bc46576f3a4d6a8f808f-h_l.jpg"
+    }
+  },
+  {
+    "detailUrl": "https://www.zillow.com/homedetails/2215-Dali-Ln-Missouri-City-TX-77459/72061282_zpid/",
+    "statusType": "FOR_SALE",
+    "location_title": "House for sale",
+    "address": "2215 Dali Ln, Missouri City, TX 77459",
+    "units": "",
+    "latLong": {
+      "latitude": 29.484655,
+      "longitude": -95.53558
+    },
+    "providerListingId": "",
+    "zpid": "72061282",
+    "agent_details": {
+      "first_name": "DAVID",
+      "last_name": "DOTY",
+      "email": "david.doty2014@gmail.com",
+      "phone": "2817705667",
+      "photo_url": "https://photos.zillowstatic.com/fp/c4b3527f44fc5a47a17b9f0b7bcbc2b3-h_l.jpg"
+    }
+  },
+  {
+    "detailUrl": "https://www.zillow.com/homedetails/14231-Shetland-Way-San-Antonio-TX-78254/307196051_zpid/",
+    "statusType": "FOR_SALE",
+    "location_title": "New construction",
+    "address": "14231 Shetland Way, San Antonio, TX 78254",
+    "units": "",
+    "latLong": {
+      "latitude": 29.525543,
+      "longitude": -98.777756
+    },
+    "providerListingId": "",
+    "zpid": "307196051",
+    "agent_details": {
+      "first_name": "Sheba",
+      "last_name": "Ramos",
+      "email": "sheba@shebaramos.com",
+      "phone": "210-860-1779",
+      "photo_url": "https://photos.zillowstatic.com/fp/db9e4fce9f08f86ef48aace0025897a0-h_l.jpg"
+    }
+  },
+  {
+    "detailUrl": "https://www.zillow.com/homedetails/6326-Mallard-Point-Windcrest-TX-78239/26199256_zpid/",
+    "statusType": "FOR_SALE",
+    "location_title": "House for sale",
+    "address": "6326 Mallard Point, Windcrest, TX 78239",
+    "units": "",
+    "latLong": {
+      "latitude": 29.514847,
+      "longitude": -98.365
+    },
+    "providerListingId": "",
+    "zpid": "26199256",
+    "agent_details": {
+      "first_name": "Christopher",
+      "last_name": "Beal",
+      "email": "gobealgroup@gmail.com",
+      "phone": "210-882-8583",
+      "photo_url": "https://photos.zillowstatic.com/fp/02e6df633ce9ccf4aa7cb29026135885-h_l.jpg"
+    }
+  },
+  {
+    "detailUrl": "https://www.zillow.com/homedetails/419-W-Colorado-Blvd-Dallas-TX-75208/333139714_zpid/",
+    "statusType": "FOR_SALE",
+    "location_title": "House for sale",
+    "address": "419 W Colorado Blvd, Dallas, TX 75208",
+    "units": "",
+    "latLong": {
+      "latitude": 32.7597,
+      "longitude": -96.828125
+    },
+    "providerListingId": "",
+    "zpid": "333139714",
+    "agent_details": {
+      "first_name": "Jason",
+      "last_name": "Saucedo",
+      "email": "jason@hewittsaucedo.com",
+      "phone": "214-403-4082",
+      "photo_url": "https://photos.zillowstatic.com/fp/33a1466b94d1acea52dcf7d55de7b8f5-h_l.jpg"
+    }
+  },
+  {
+    "detailUrl": "https://www.zillow.com/homedetails/105-Cibolo-Pass-Fair-Oaks-Ranch-TX-78015/28652836_zpid/",
+    "statusType": "FOR_SALE",
+    "location_title": "House for sale",
+    "address": "105 CIBOLO PASS, Boerne, TX 78015",
+    "units": "",
+    "latLong": {
+      "latitude": 29.766731,
+      "longitude": -98.66228
+    },
+    "providerListingId": "",
+    "zpid": "28652836",
+    "agent_details": {
+      "first_name": "Amy",
+      "last_name": "McKeithen",
+      "email": "ASEAL@AOL.COM",
+      "phone": "830-515-2100",
+      "photo_url": "https://photos.zillowstatic.com/fp/420b83393cd2c7faeb2f21dfb75cc1eb-h_l.jpg"
+    }
+  },
+  {
+    "detailUrl": "https://www.zillow.com/homedetails/4906-Meadowcreek-Dr-Dallas-TX-75248/26874017_zpid/",
+    "statusType": "FOR_SALE",
+    "location_title": "House for sale",
+    "address": "4906 Meadowcreek Dr, Dallas, TX 75248",
+    "units": "",
+    "latLong": {
+      "latitude": 32.97031,
+      "longitude": -96.79004
+    },
+    "providerListingId": "",
+    "zpid": "26874017",
+    "agent_details": {
+      "first_name": "The Cannon",
+      "last_name": "Team",
+      "email": "offers@cannonteam.com",
+      "phone": "972-215-7747",
+      "photo_url": "https://photos.zillowstatic.com/fp/2af61f3385e6cf82ee5e26fef1a54fc6-h_l.jpg"
+    }
+  },
+  {
+    "detailUrl": "https://www.zillow.com/homedetails/9201-Norchester-Ct-Austin-TX-78729/29554968_zpid/",
+    "statusType": "FOR_SALE",
+    "location_title": "Active",
+    "address": "9201 Norchester Ct, Austin, TX 78729",
+    "units": "",
+    "latLong": {
+      "latitude": 30.458157,
+      "longitude": -97.77703
+    },
+    "providerListingId": "",
+    "zpid": "29554968",
+    "agent_details": {
+      "first_name": "Laurie",
+      "last_name": "Flood",
+      "email": "laurie@lauriefloodteam.com",
+      "phone": "512-576-1504",
+      "photo_url": "https://photos.zillowstatic.com/fp/94a01f829c28a84650d3d0db01f42480-h_l.jpg"
+    }
+  },
+  {
+    "detailUrl": "https://www.zillow.com/homedetails/14018-Duncannon-Dr-Houston-TX-77015/28107387_zpid/",
+    "statusType": "FOR_SALE",
+    "location_title": "House for sale",
+    "address": "14018 Duncannon Dr, Houston, TX 77015",
+    "units": "",
+    "latLong": {
+      "latitude": 29.79337,
+      "longitude": -95.1737
+    },
+    "providerListingId": "",
+    "zpid": "28107387",
+    "agent_details": {
+      "first_name": "VIaney",
+      "last_name": "Del Castillo",
+      "email": "vianey@nanproperties.com",
+      "phone": "832-706-7094",
+      "photo_url": "https://photos.zillowstatic.com/fp/ea719697b844d0280ea58aef187ffdfd-h_l.jpg"
+    }
+  },
+  {
+    "detailUrl": "https://www.zillow.com/homedetails/6214-Ozona-Ml-San-Antonio-TX-78253/80023297_zpid/",
+    "statusType": "FOR_SALE",
+    "location_title": "House for sale",
+    "address": "6214 Ozona Mill, San Antonio, TX 78253",
+    "units": "",
+    "latLong": {
+      "latitude": 29.49645,
+      "longitude": -98.737
+    },
+    "providerListingId": "",
+    "zpid": "80023297",
+    "agent_details": {
+      "first_name": "Jackie",
+      "last_name": "Cardenas",
+      "email": "jcardenas@levirodgersgroup.com",
+      "phone": "2108122599",
+      "photo_url": "https://photos.zillowstatic.com/fp/8e3b279585a04d873486a0321f044707-h_l.jpg"
+    }
+  },
+  {
+    "detailUrl": "https://www.zillow.com/homedetails/1609-Sunstone-Cir-New-Braunfels-TX-78130/55297140_zpid/",
+    "statusType": "FOR_SALE",
+    "location_title": "House for sale",
+    "address": "1609 Sunstone, New Braunfels, TX 78130",
+    "units": "",
+    "latLong": {
+      "latitude": 29.665195,
+      "longitude": -98.12149
+    },
+    "providerListingId": "",
+    "zpid": "55297140",
+    "agent_details": {
+      "first_name": "Christopher",
+      "last_name": "Marti",
+      "email": "chris@housifitx.com",
+      "phone": "830-708-6688",
+      "photo_url": "https://photos.zillowstatic.com/fp/f0b41657c06ce5624fa9a586ff56bafc-h_l.jpg"
+    }
+  },
+  {
+    "detailUrl": "https://www.zillow.com/homedetails/1810-Kynette-Dr-Euless-TX-76040/97676848_zpid/",
+    "statusType": "FOR_SALE",
+    "location_title": "House for sale",
+    "address": "1810 Kynette Dr, Euless, TX 76040",
+    "units": "",
+    "latLong": {
+      "latitude": 32.833393,
+      "longitude": -97.11254
+    },
+    "providerListingId": "",
+    "zpid": "97676848",
+    "agent_details": {
+      "first_name": "Tiffany",
+      "last_name": "Becerra",
+      "email": "becerra.tiffany@yahoo.com",
+      "phone": "8178221067",
+      "photo_url": ""
+    }
+  },
+  {
+    "detailUrl": "https://www.zillow.com/homedetails/6624-Missy-Dr-Dallas-TX-75252/26653350_zpid/",
+    "statusType": "FOR_SALE",
+    "location_title": "House for sale",
+    "address": "6624 Missy Dr, Dallas, TX 75252",
+    "units": "",
+    "latLong": {
+      "latitude": 32.998974,
+      "longitude": -96.78837
+    },
+    "providerListingId": "",
+    "zpid": "26653350",
+    "agent_details": {
+      "first_name": "Julie",
+      "last_name": "Boren",
+      "email": "julieboren@daveperrymiller.com",
+      "phone": "214-402-8778",
+      "photo_url": ""
+    }
+  },
+  {
+    "detailUrl": "https://www.zillow.com/homedetails/12309-Capella-Trl-Austin-TX-78732/83827969_zpid/",
+    "statusType": "FOR_SALE",
+    "location_title": "Active",
+    "address": "12309 Capella Trl, Austin, TX 78732",
+    "units": "",
+    "latLong": {
+      "latitude": 30.357004,
+      "longitude": -97.90297
+    },
+    "providerListingId": "",
+    "zpid": "83827969",
+    "agent_details": {
+      "first_name": "Kinan",
+      "last_name": "Beck",
+      "email": "kinan@kinanbeck.com",
+      "phone": "512-694-4777",
+      "photo_url": "https://photos.zillowstatic.com/fp/b3d0225f89a97cd59bd1d976f719c000-h_l.jpg"
+    }
+  },
+  {
+    "detailUrl": "https://www.zillow.com/homedetails/1607-Mallard-Cir-Mansfield-TX-76063/29321678_zpid/",
+    "statusType": "FOR_SALE",
+    "location_title": "House for sale",
+    "address": "1607 Mallard Cir, Mansfield, TX 76063",
+    "units": "",
+    "latLong": {
+      "latitude": 32.60175,
+      "longitude": -97.12147
+    },
+    "providerListingId": "",
+    "zpid": "29321678"
+  },
+  {
+    "detailUrl": "https://www.zillow.com/homedetails/3825-Keltner-Ave-El-Paso-TX-79904/27373704_zpid/",
+    "statusType": "FOR_SALE",
+    "location_title": "House for sale",
+    "address": "3825 Keltner Ave, El Paso, TX 79904",
+    "units": "",
+    "latLong": {
+      "latitude": 31.826937,
+      "longitude": -106.44689
+    },
+    "providerListingId": "",
+    "zpid": "27373704",
+    "agent_details": {
+      "first_name": "Fernando",
+      "last_name": "Valenzuela",
+      "email": "fernando@1stchoicerealtytx.com",
+      "phone": "915-493-9793",
+      "photo_url": "https://photos.zillowstatic.com/fp/8c59e58c1814fabf1852ff5f7458c4c0-h_l.jpg"
+    }
+  },
+  {
+    "detailUrl": "https://www.zillow.com/homedetails/516-Lodge-Hill-Dr-Heath-TX-75032/2076438973_zpid/",
+    "statusType": "FOR_SALE",
+    "location_title": "House for sale",
+    "address": "516 Lodge Hill Dr, Heath, TX 75032",
+    "units": "",
+    "latLong": {
+      "latitude": 32.85502,
+      "longitude": -96.44619
+    },
+    "providerListingId": "",
+    "zpid": "2076438973",
+    "agent_details": {
+      "first_name": "Shannon ",
+      "last_name": "Anderson",
+      "email": "Shannon.Anderson@kw.com",
+      "phone": "",
+      "photo_url": ""
+    }
+  },
+  {
+    "detailUrl": "https://www.zillow.com/homedetails/411-S-8th-St-Anthony-TX-79821/445854743_zpid/",
+    "statusType": "FOR_SALE",
+    "location_title": "House for sale",
+    "address": "411 S 8th St, Anthony, TX 79821",
+    "units": "",
+    "latLong": {
+      "latitude": 31.997383,
+      "longitude": -106.59852
+    },
+    "providerListingId": "",
+    "zpid": "445854743",
+    "agent_details": {
+      "first_name": "24TH&HOME",
+      "last_name": "LLC",
+      "email": "mcazares@24thandhome.com",
+      "phone": "915-704-0000",
+      "photo_url": "https://photos.zillowstatic.com/fp/e48b8c982067577e9807aed686c11f65-h_l.jpg"
+    }
+  },
+  {
+    "detailUrl": "https://www.zillow.com/homedetails/2706-Shilo-Ct-Mansfield-TX-76063/70563167_zpid/",
+    "statusType": "FOR_SALE",
+    "location_title": "House for sale",
+    "address": "2706 Shilo Ct, Mansfield, TX 76063",
+    "units": "",
+    "latLong": {
+      "latitude": 32.605583,
+      "longitude": -97.101974
+    },
+    "providerListingId": "",
+    "zpid": "70563167",
+    "agent_details": {
+      "first_name": "Beth",
+      "last_name": "Steinke",
+      "email": "ourbetterway@gmail.com",
+      "phone": "682-777-5745",
+      "photo_url": "https://photos.zillowstatic.com/fp/322180f5428348225eaded5f27d113da-h_l.jpg"
+    }
+  },
+  {
+    "detailUrl": "https://www.zillow.com/homedetails/1236-Arrowwood-Dr-Aubrey-TX-76227/441282244_zpid/",
+    "statusType": "FOR_SALE",
+    "location_title": "House for sale",
+    "address": "1236 Arrowwood Dr, Aubrey, TX 76227",
+    "units": "",
+    "latLong": {
+      "latitude": 33.246437,
+      "longitude": -96.907036
+    },
+    "providerListingId": "",
+    "zpid": "441282244",
+    "agent_details": {
+      "first_name": "The Cannon",
+      "last_name": "Team",
+      "email": "offers@cannonteam.com",
+      "phone": "972-215-7747",
+      "photo_url": "https://photos.zillowstatic.com/fp/2af61f3385e6cf82ee5e26fef1a54fc6-h_l.jpg"
+    }
+  },
+  {
+    "detailUrl": "https://www.zillow.com/homedetails/1412-N-Waddill-St-McKinney-TX-75069/26615632_zpid/",
+    "statusType": "FOR_SALE",
+    "location_title": "House for sale",
+    "address": "1412 N Waddill St, McKinney, TX 75069",
+    "units": "",
+    "latLong": {
+      "latitude": 33.210804,
+      "longitude": -96.62547
+    },
+    "providerListingId": "",
+    "zpid": "26615632",
+    "agent_details": {
+      "first_name": "Linda",
+      "last_name": "Baker",
+      "email": "lbaker@briggsfreeman.com",
+      "phone": "2147040769",
+      "photo_url": "https://photos.zillowstatic.com/fp/110c63e883813aefa9def74fdbf52e1f-h_l.jpg"
+    }
+  },
+  {
+    "detailUrl": "https://www.zillow.com/homedetails/4049-Heron-Cove-Ln-The-Colony-TX-75056/27296324_zpid/",
+    "statusType": "FOR_SALE",
+    "location_title": "House for sale",
+    "address": "4049 Heron Cove Ln, The Colony, TX 75056",
+    "units": "",
+    "latLong": {
+      "latitude": 33.087822,
+      "longitude": -96.90668
+    },
+    "providerListingId": "",
+    "zpid": "27296324",
+    "agent_details": {
+      "first_name": "Renee",
+      "last_name": "Graver",
+      "email": "reneeonthelake@gmail.com",
+      "phone": "940-453-7754",
+      "photo_url": "https://photos.zillowstatic.com/fp/0e2e136dc2e1a2bcc959399a8ab5783f-h_l.jpg"
+    }
+  },
+  {
+    "detailUrl": "https://www.zillow.com/homedetails/2739-Blue-Glen-Ln-Houston-TX-77073/28354296_zpid/",
+    "statusType": "FOR_SALE",
+    "location_title": "House for sale",
+    "address": "2739 Blue Glen Ln, Houston, TX 77073",
+    "units": "",
+    "latLong": {
+      "latitude": 30.009228,
+      "longitude": -95.38549
+    },
+    "providerListingId": "",
+    "zpid": "28354296"
+  },
+  {
+    "detailUrl": "https://www.zillow.com/homedetails/4530-Wrangler-Vw-San-Antonio-TX-78223/120811411_zpid/",
+    "statusType": "FOR_SALE",
+    "location_title": "House for sale",
+    "address": "4530 Wrangler View, San Antonio, TX 78223",
+    "units": "",
+    "latLong": {
+      "latitude": 29.288908,
+      "longitude": -98.400345
+    },
+    "providerListingId": "",
+    "zpid": "120811411",
+    "agent_details": {
+      "first_name": "Bella",
+      "last_name": "Cruz ",
+      "email": "bella@bellacruzrealtor.com",
+      "phone": "210-677-2279",
+      "photo_url": "https://photos.zillowstatic.com/fp/c5d16082d3cdbd5803e261dcfc097282-h_l.jpg"
+    }
+  }
+]
