@@ -1,0 +1,1055 @@
+[
+  {
+    "detailUrl": "/b/building/29.764585,-97.99949_ll/",
+    "statusType": "FOR_RENT",
+    "location_title": "Riverbend Apartments",
+    "address": "453 N Business, New Braunfels, TX",
+    "units": [
+      {
+        "price": "$1,023+",
+        "beds": "1",
+        "roomForRent": false
+      },
+      {
+        "price": "$1,295+",
+        "beds": "2",
+        "roomForRent": false
+      },
+      {
+        "price": "$1,495+",
+        "beds": "3",
+        "roomForRent": false
+      },
+      {
+        "price": "$1,550+",
+        "beds": "4",
+        "roomForRent": false
+      },
+      {
+        "price": "$2,050+",
+        "beds": "5",
+        "roomForRent": false
+      }
+    ],
+    "latLong": {
+      "latitude": 29.764585,
+      "longitude": -97.99949
+    },
+    "providerListingId": "3kts1a05tg24x",
+    "zpid": "29.764585--97.99949"
+  },
+  {
+    "detailUrl": "/apartments/pearland-tx/rosalia-silverlake/ChXwkv/",
+    "statusType": "FOR_RENT",
+    "location_title": "Rosalia Silverlake",
+    "address": "2760 County Road 94, Pearland, TX",
+    "units": [
+      {
+        "price": "$1,460+",
+        "beds": "1",
+        "roomForRent": false
+      },
+      {
+        "price": "$1,999+",
+        "beds": "2",
+        "roomForRent": false
+      }
+    ],
+    "latLong": {
+      "latitude": 29.54657,
+      "longitude": -95.38504
+    },
+    "providerListingId": "2f5x7rgatevef",
+    "zpid": "29.54657--95.38504"
+  },
+  {
+    "detailUrl": "/apartments/mesquite-tx/the-fielder/CgDwf7/",
+    "statusType": "FOR_RENT",
+    "location_title": "The Fielder",
+    "address": "1300 Wooded Lake Dr, Mesquite, TX",
+    "units": [
+      {
+        "price": "$1,218+",
+        "beds": "1",
+        "roomForRent": false
+      },
+      {
+        "price": "$1,198+",
+        "beds": "2",
+        "roomForRent": false
+      },
+      {
+        "price": "$1,383+",
+        "beds": "3",
+        "roomForRent": false
+      },
+      {
+        "price": "$1,534+",
+        "beds": "4",
+        "roomForRent": false
+      }
+    ],
+    "latLong": {
+      "latitude": 32.83797,
+      "longitude": -96.62852
+    },
+    "providerListingId": "3k1a6jvtey1g6",
+    "zpid": "32.83797--96.62852"
+  },
+  {
+    "detailUrl": "https://www.zillow.com/apartments/fresno-tx/gristmill-at-tuscany-park/CkCdLJ/",
+    "statusType": "FOR_RENT",
+    "location_title": "Apartment for rent",
+    "address": "Gristmill at Tuscany Park, 21821 S Post Oak Rd APT 223, Fresno, TX 77545",
+    "units": "",
+    "latLong": {
+      "latitude": 29.551363,
+      "longitude": -95.46979
+    },
+    "providerListingId": "5eg6efugsnfx9",
+    "zpid": "447563006"
+  },
+  {
+    "detailUrl": "/apartments/mckinney-tx/mera-craig-ranch-55+-active-adult/ChV9Ww/",
+    "statusType": "FOR_RENT",
+    "location_title": "Mera Craig Ranch 55+ Active Adult",
+    "address": "6080 Alma Rd, McKinney, TX",
+    "units": [
+      {
+        "price": "$1,324+",
+        "beds": "0",
+        "roomForRent": false
+      },
+      {
+        "price": "$1,564+",
+        "beds": "1",
+        "roomForRent": false
+      },
+      {
+        "price": "$2,041+",
+        "beds": "2",
+        "roomForRent": false
+      }
+    ],
+    "latLong": {
+      "latitude": 33.139713,
+      "longitude": -96.70803
+    },
+    "providerListingId": "44y1gfjqxnkyz",
+    "zpid": "33.139713--96.70803"
+  },
+  {
+    "detailUrl": "/apartments/mesquite-tx/one-townecrest-apartments/5Xjwjv/",
+    "statusType": "FOR_RENT",
+    "location_title": "One Townecrest Apartments",
+    "address": "1217 Americana Ln, Mesquite, TX",
+    "units": [
+      {
+        "price": "$1,234+",
+        "beds": "1",
+        "roomForRent": false
+      },
+      {
+        "price": "$1,646+",
+        "beds": "2",
+        "roomForRent": false
+      }
+    ],
+    "latLong": {
+      "latitude": 32.805454,
+      "longitude": -96.61605
+    },
+    "providerListingId": "3s6tazzu720w4",
+    "zpid": "32.805454--96.61605"
+  },
+  {
+    "detailUrl": "/b/building/30.587305,-97.85823_ll/",
+    "statusType": "FOR_RENT",
+    "location_title": "Park at Crystal Falls",
+    "address": "7740-183A Toll Rd, Leander, TX",
+    "units": [
+      {
+        "price": "$650+",
+        "beds": "0",
+        "roomForRent": false
+      },
+      {
+        "price": "$925+",
+        "beds": "1",
+        "roomForRent": false
+      },
+      {
+        "price": "$1,395+",
+        "beds": "2",
+        "roomForRent": false
+      },
+      {
+        "price": "$1,795+",
+        "beds": "3",
+        "roomForRent": false
+      },
+      {
+        "price": "$3,995+",
+        "beds": "4",
+        "roomForRent": false
+      }
+    ],
+    "latLong": {
+      "latitude": 30.587305,
+      "longitude": -97.85823
+    },
+    "providerListingId": "5dnnmt27xdgxd",
+    "zpid": "30.587305--97.85823"
+  },
+  {
+    "detailUrl": "/apartments/cedar-park-tx/mariposa-cedar-park-55+-apartment-homes/5Xht93/",
+    "statusType": "FOR_RENT",
+    "location_title": "Mariposa Cedar Park 55+ Apartment Homes",
+    "address": "1301 W Whitestone Blvd, Cedar Park, TX",
+    "units": [
+      {
+        "price": "$1,484+",
+        "beds": "1",
+        "roomForRent": false
+      },
+      {
+        "price": "$1,499+",
+        "beds": "2",
+        "roomForRent": false
+      }
+    ],
+    "latLong": {
+      "latitude": 30.517076,
+      "longitude": -97.847275
+    },
+    "providerListingId": "1318n0ucwnxry",
+    "zpid": "30.517076--97.847275"
+  },
+  {
+    "detailUrl": "/apartments/midland-tx/cypress-pointe/5XhxTh/",
+    "statusType": "FOR_RENT",
+    "location_title": "Cypress Pointe",
+    "address": "3601 Andrews Hwy, Midland, TX",
+    "units": [
+      {
+        "price": "$1,015+",
+        "beds": "0",
+        "roomForRent": false
+      },
+      {
+        "price": "$1,100+",
+        "beds": "1",
+        "roomForRent": false
+      },
+      {
+        "price": "$1,325+",
+        "beds": "2",
+        "roomForRent": false
+      }
+    ],
+    "latLong": {
+      "latitude": 32.002693,
+      "longitude": -102.130264
+    },
+    "providerListingId": "11hkakucg9e1",
+    "zpid": "32.002693--102.130264"
+  },
+  {
+    "detailUrl": "/apartments/dallas-tx/westwood/5Yy8k9/",
+    "statusType": "FOR_RENT",
+    "location_title": "Westwood",
+    "address": "2631 Webb Chapel Ext, Dallas, TX",
+    "units": [
+      {
+        "price": "$1,400+",
+        "beds": "1",
+        "roomForRent": false
+      },
+      {
+        "price": "$1,700+",
+        "beds": "2",
+        "roomForRent": false
+      },
+      {
+        "price": "$2,150+",
+        "beds": "3",
+        "roomForRent": false
+      }
+    ],
+    "latLong": {
+      "latitude": 32.855034,
+      "longitude": -96.8734
+    },
+    "providerListingId": "40nmfmz8axpkk",
+    "zpid": "32.855034--96.8734"
+  },
+  {
+    "detailUrl": "/apartments/allen-tx/larkspur-at-twin-creeks-55+-active-adult-apartment-homes/CkCXvv/",
+    "statusType": "FOR_RENT",
+    "location_title": "Larkspur at Twin Creeks - 55+ Active Adult Apartment Homes",
+    "address": "860 Junction Dr, Allen, TX",
+    "units": [
+      {
+        "price": "$1,680+",
+        "beds": "1",
+        "roomForRent": false
+      },
+      {
+        "price": "$1,789+",
+        "beds": "2",
+        "roomForRent": false
+      }
+    ],
+    "latLong": {
+      "latitude": 33.109776,
+      "longitude": -96.67778
+    },
+    "providerListingId": "p8m7uautnc2s",
+    "zpid": "33.109776--96.67778"
+  },
+  {
+    "detailUrl": "/apartments/kyle-tx/sage-plum-creek-55+-active-adult/CkBN5f/",
+    "statusType": "FOR_RENT",
+    "location_title": "Sage Plum Creek 55+ Active Adult",
+    "address": "1075 Vaughn Dr, Kyle, TX",
+    "units": [
+      {
+        "price": "$1,540+",
+        "beds": "1",
+        "roomForRent": false
+      },
+      {
+        "price": "$2,129+",
+        "beds": "2",
+        "roomForRent": false
+      }
+    ],
+    "latLong": {
+      "latitude": 30.025398,
+      "longitude": -97.87437
+    },
+    "providerListingId": "1gd8dukq98jdt",
+    "zpid": "30.025398--97.87437"
+  },
+  {
+    "detailUrl": "/apartments/converse-tx/the-arcadian/Bqvfbt/",
+    "statusType": "FOR_RENT",
+    "location_title": "The Arcadian",
+    "address": "4611 E 1604 N, Converse, TX",
+    "units": [
+      {
+        "price": "$992+",
+        "beds": "1",
+        "roomForRent": false
+      },
+      {
+        "price": "$1,188+",
+        "beds": "2",
+        "roomForRent": false
+      },
+      {
+        "price": "$1,369+",
+        "beds": "3",
+        "roomForRent": false
+      },
+      {
+        "price": "$1,516+",
+        "beds": "4",
+        "roomForRent": false
+      }
+    ],
+    "latLong": {
+      "latitude": 29.463661,
+      "longitude": -98.289925
+    },
+    "providerListingId": "2s66mmk140h6c",
+    "zpid": "29.463661--98.289925"
+  },
+  {
+    "detailUrl": "/apartments/sherman-tx/highland-park-apartments/5zDFtN/",
+    "statusType": "FOR_RENT",
+    "location_title": "Highland Park Apartments",
+    "address": "1925 W Taylor St, Sherman, TX",
+    "units": [
+      {
+        "price": "$995+",
+        "beds": "1",
+        "roomForRent": false
+      },
+      {
+        "price": "$1,145+",
+        "beds": "2",
+        "roomForRent": false
+      }
+    ],
+    "latLong": {
+      "latitude": 33.65203,
+      "longitude": -96.639015
+    },
+    "providerListingId": "4ehekn5ta03y",
+    "zpid": "33.65203--96.639015"
+  },
+  {
+    "detailUrl": "/apartments/pflugerville-tx/amberlin-pflugerville-55+-active-adult/CjfCYh/",
+    "statusType": "FOR_RENT",
+    "location_title": "Amberlin Pflugerville 55+ Active Adult",
+    "address": "409 E Pflugerville Pkwy, Pflugerville, TX",
+    "units": [
+      {
+        "price": "$1,429+",
+        "beds": "1",
+        "roomForRent": false
+      },
+      {
+        "price": "$2,050+",
+        "beds": "2",
+        "roomForRent": false
+      },
+      {
+        "price": "$2,784+",
+        "beds": "3",
+        "roomForRent": false
+      }
+    ],
+    "latLong": {
+      "latitude": 30.461214,
+      "longitude": -97.62464
+    },
+    "providerListingId": "46xp1btvvbw8z",
+    "zpid": "30.461214--97.62464"
+  },
+  {
+    "detailUrl": "/apartments/duncanville-tx/meadows-on-merrill/5XhssL/",
+    "statusType": "FOR_RENT",
+    "location_title": "Meadows on Merrill",
+    "address": "800 N Merrill Ave, Duncanville, TX",
+    "units": [
+      {
+        "price": "$1,249+",
+        "beds": "1",
+        "roomForRent": false
+      },
+      {
+        "price": "$1,359+",
+        "beds": "2",
+        "roomForRent": false
+      },
+      {
+        "price": "$1,639+",
+        "beds": "3",
+        "roomForRent": false
+      }
+    ],
+    "latLong": {
+      "latitude": 32.660183,
+      "longitude": -96.90479
+    },
+    "providerListingId": "yfcz1yxq8gzq",
+    "zpid": "32.660183--96.90479"
+  },
+  {
+    "detailUrl": "/apartments/odessa-tx/acacia-park/5XhxT2/",
+    "statusType": "FOR_RENT",
+    "location_title": "Acacia Park",
+    "address": "4775 Oakwood Dr, Odessa, TX",
+    "units": [
+      {
+        "price": "$1,089+",
+        "beds": "1",
+        "roomForRent": false
+      },
+      {
+        "price": "$1,350+",
+        "beds": "2",
+        "roomForRent": false
+      }
+    ],
+    "latLong": {
+      "latitude": 31.878895,
+      "longitude": -102.322495
+    },
+    "providerListingId": "5b37d8hzf2bqu",
+    "zpid": "31.878895--102.322495"
+  },
+  {
+    "detailUrl": "/apartments/midland-tx/the-bradford/5XhxT9/",
+    "statusType": "FOR_RENT",
+    "location_title": "The Bradford",
+    "address": "4715 W Wadley Ave, Midland, TX",
+    "units": [
+      {
+        "price": "$1,230+",
+        "beds": "1",
+        "roomForRent": false
+      },
+      {
+        "price": "$1,570+",
+        "beds": "2",
+        "roomForRent": false
+      }
+    ],
+    "latLong": {
+      "latitude": 32.01333,
+      "longitude": -102.14915
+    },
+    "providerListingId": "2pffkjkcaarky",
+    "zpid": "32.01333--102.14915"
+  },
+  {
+    "detailUrl": "/apartments/dallas-tx/wynnewood-gardens/5XmsFq/",
+    "statusType": "FOR_RENT",
+    "location_title": "Wynnewood Gardens",
+    "address": "2311 Anzio Dr, Dallas, TX",
+    "units": [
+      {
+        "price": "$1,650+",
+        "beds": "2",
+        "roomForRent": false
+      }
+    ],
+    "latLong": {
+      "latitude": 32.719723,
+      "longitude": -96.83121
+    },
+    "providerListingId": "41p6rmhy3q9kb",
+    "zpid": "32.719723--96.83121"
+  },
+  {
+    "detailUrl": "/apartments/sherman-tx/parks-on-taylor-apartment-homes/5Xt84y/",
+    "statusType": "FOR_RENT",
+    "location_title": "Parks on Taylor Apartment Homes",
+    "address": "1200 W Taylor St, Sherman, TX",
+    "units": [
+      {
+        "price": "$995+",
+        "beds": "1",
+        "roomForRent": false
+      },
+      {
+        "price": "$1,095+",
+        "beds": "2",
+        "roomForRent": false
+      }
+    ],
+    "latLong": {
+      "latitude": 33.65104,
+      "longitude": -96.62827
+    },
+    "providerListingId": "4x1je5k5y3mce",
+    "zpid": "33.65104--96.62827"
+  },
+  {
+    "detailUrl": "/apartments/athens-tx/summit/CjfJQq/",
+    "statusType": "FOR_RENT",
+    "location_title": "Summit",
+    "address": "2100 State Highway 31 W, Athens, TX",
+    "units": [
+      {
+        "price": "$1,001+",
+        "beds": "1",
+        "roomForRent": false
+      },
+      {
+        "price": "$1,307+",
+        "beds": "2",
+        "roomForRent": false
+      }
+    ],
+    "latLong": {
+      "latitude": 32.22722,
+      "longitude": -95.822655
+    },
+    "providerListingId": "34f8kwp756yjf",
+    "zpid": "32.22722--95.822655"
+  },
+  {
+    "detailUrl": "/apartments/san-angelo-tx/wellington-place/5Xt43Q/",
+    "statusType": "FOR_RENT",
+    "location_title": "Wellington Place",
+    "address": "4110 Wellington St, San Angelo, TX",
+    "units": [
+      {
+        "price": "$1,025+",
+        "beds": "1",
+        "roomForRent": false
+      },
+      {
+        "price": "$1,145+",
+        "beds": "2",
+        "roomForRent": false
+      }
+    ],
+    "latLong": {
+      "latitude": 31.431623,
+      "longitude": -100.49733
+    },
+    "providerListingId": "1u9h69rwntraz",
+    "zpid": "31.431623--100.49733"
+  },
+  {
+    "detailUrl": "/apartments/midland-tx/the-palms-at-briarwood/5XhxXh/",
+    "statusType": "FOR_RENT",
+    "location_title": "The Palms at Briarwood",
+    "address": "4805 Briarwood Ave, Midland, TX",
+    "units": [
+      {
+        "price": "$1,519+",
+        "beds": "1",
+        "roomForRent": false
+      },
+      {
+        "price": "$1,750+",
+        "beds": "2",
+        "roomForRent": false
+      }
+    ],
+    "latLong": {
+      "latitude": 32.026936,
+      "longitude": -102.15191
+    },
+    "providerListingId": "10z9mr3nfq7t9",
+    "zpid": "32.026936--102.15191"
+  },
+  {
+    "detailUrl": "/apartments/greenville-tx/lake-breeze-apartments/9KVKJP/",
+    "statusType": "FOR_RENT",
+    "location_title": "Lake Breeze Apartments",
+    "address": "6011 Interstate Highway 30, Greenville, TX",
+    "units": [
+      {
+        "price": "$929+",
+        "beds": "1",
+        "roomForRent": false
+      },
+      {
+        "price": "$1,018+",
+        "beds": "2",
+        "roomForRent": false
+      }
+    ],
+    "latLong": {
+      "latitude": 33.10982,
+      "longitude": -96.1
+    },
+    "providerListingId": "6z1z5gbbzc78",
+    "zpid": "33.10982--96.1"
+  },
+  {
+    "detailUrl": "/apartments/sherman-tx/the-grove-apartments/CjjC5K/",
+    "statusType": "FOR_RENT",
+    "location_title": "The Grove Apartments",
+    "address": "2151 W Moore St, Sherman, TX",
+    "units": [
+      {
+        "price": "$1,040+",
+        "beds": "1",
+        "roomForRent": false
+      },
+      {
+        "price": "$1,300+",
+        "beds": "2",
+        "roomForRent": false
+      }
+    ],
+    "latLong": {
+      "latitude": 33.613552,
+      "longitude": -96.63099
+    },
+    "providerListingId": "7sxc4veevbv6",
+    "zpid": "33.613552--96.63099"
+  },
+  {
+    "detailUrl": "/apartments/waco-tx/brookview-hills/CmRS2t/",
+    "statusType": "FOR_RENT",
+    "location_title": "Brookview Hills",
+    "address": "3400 W Brookview Dr, Waco, TX",
+    "units": [
+      {
+        "price": "$1,199+",
+        "beds": "2",
+        "roomForRent": false
+      }
+    ],
+    "latLong": {
+      "latitude": 31.541101,
+      "longitude": -97.16936
+    },
+    "providerListingId": "5a2c83wpen167",
+    "zpid": "31.541101--97.16936"
+  },
+  {
+    "detailUrl": "/apartments/garland-tx/casa-del-mar-rg-llc/5ZbJJr/",
+    "statusType": "FOR_RENT",
+    "location_title": "Casa Del Mar RG LLC",
+    "address": "3810 W Walnut St, Garland, TX",
+    "units": [
+      {
+        "price": "$1,180+",
+        "beds": "1",
+        "roomForRent": false
+      },
+      {
+        "price": "$1,350+",
+        "beds": "2",
+        "roomForRent": false
+      }
+    ],
+    "latLong": {
+      "latitude": 32.91637,
+      "longitude": -96.68875
+    },
+    "providerListingId": "50axyw3ndkmah",
+    "zpid": "32.91637--96.68875"
+  },
+  {
+    "detailUrl": "/apartments/denton-tx/woodhill-apartments/5XjxC5/",
+    "statusType": "FOR_RENT",
+    "location_title": "Woodhill Apartments",
+    "address": "1408 Teasley Ln, Denton, TX",
+    "units": [
+      {
+        "price": "$955+",
+        "beds": "1",
+        "roomForRent": false
+      },
+      {
+        "price": "$1,211+",
+        "beds": "2",
+        "roomForRent": false
+      }
+    ],
+    "latLong": {
+      "latitude": 33.196785,
+      "longitude": -97.126854
+    },
+    "providerListingId": "160psx10jcm43",
+    "zpid": "33.196785--97.126854"
+  },
+  {
+    "detailUrl": "/apartments/arlington-tx/the-woodlands-of-arlington/5Xm8Zq/",
+    "statusType": "FOR_RENT",
+    "location_title": "The Woodlands of Arlington",
+    "address": "2800 Lynnwood Dr, Arlington, TX",
+    "units": [
+      {
+        "price": "$950+",
+        "beds": "0",
+        "roomForRent": false
+      },
+      {
+        "price": "$1,095+",
+        "beds": "1",
+        "roomForRent": false
+      },
+      {
+        "price": "$1,395+",
+        "beds": "2",
+        "roomForRent": false
+      }
+    ],
+    "latLong": {
+      "latitude": 32.72372,
+      "longitude": -97.15193
+    },
+    "providerListingId": "4vhxdgmv0wnn7",
+    "zpid": "32.72372--97.15193"
+  },
+  {
+    "detailUrl": "/apartments/greenville-tx/briar-cove/5YyF44/",
+    "statusType": "FOR_RENT",
+    "location_title": "Briar Cove",
+    "address": "1910 Joe Ramsey Blvd E, Greenville, TX",
+    "units": [
+      {
+        "price": "$879+",
+        "beds": "1",
+        "roomForRent": false
+      },
+      {
+        "price": "$1,203+",
+        "beds": "2",
+        "roomForRent": false
+      }
+    ],
+    "latLong": {
+      "latitude": 33.11896,
+      "longitude": -96.101654
+    },
+    "providerListingId": "2v8r5q0r713y4",
+    "zpid": "33.11896--96.101654"
+  },
+  {
+    "detailUrl": "/apartments/mesquite-tx/lane-at-town-crossing/5Xm8Y9/",
+    "statusType": "FOR_RENT",
+    "location_title": "Lane at Town Crossing",
+    "address": "4035 Towne Crossing Blvd, Mesquite, TX",
+    "units": [
+      {
+        "price": "$965+",
+        "beds": "1",
+        "roomForRent": false
+      },
+      {
+        "price": "$1,180+",
+        "beds": "2",
+        "roomForRent": false
+      }
+    ],
+    "latLong": {
+      "latitude": 32.819427,
+      "longitude": -96.63472
+    },
+    "providerListingId": "43t82cd3sch60",
+    "zpid": "32.819427--96.63472"
+  },
+  {
+    "detailUrl": "/apartments/dallas-tx/koko-luau/Cgpt8w/",
+    "statusType": "FOR_RENT",
+    "location_title": "Koko/Luau",
+    "address": "2205 Empire Central Dr, Dallas, TX",
+    "units": [
+      {
+        "price": "$1,150+",
+        "beds": "1",
+        "roomForRent": false
+      },
+      {
+        "price": "$1,425+",
+        "beds": "2",
+        "roomForRent": false
+      }
+    ],
+    "latLong": {
+      "latitude": 32.829056,
+      "longitude": -96.85119
+    },
+    "providerListingId": "3dddzge4g7bd8",
+    "zpid": "32.829056--96.85119"
+  },
+  {
+    "detailUrl": "/apartments/irving-tx/oak-park-apartments/5YCN8q/",
+    "statusType": "FOR_RENT",
+    "location_title": "Oak Park Apartments",
+    "address": "2800 W Pioneer Dr, Irving, TX",
+    "units": [
+      {
+        "price": "$1,275+",
+        "beds": "1",
+        "roomForRent": false
+      }
+    ],
+    "latLong": {
+      "latitude": 32.82621,
+      "longitude": -96.98287
+    },
+    "providerListingId": "mpwxa652kb9f",
+    "zpid": "32.82621--96.98287"
+  },
+  {
+    "detailUrl": "/apartments/bay-city-tx/new-haven-apartments/5XhryT/",
+    "statusType": "FOR_RENT",
+    "location_title": "New Haven Apartments",
+    "address": "5001 Avenue F, Bay City, TX",
+    "units": [
+      {
+        "price": "$579+",
+        "beds": "1",
+        "roomForRent": false
+      },
+      {
+        "price": "$670+",
+        "beds": "2",
+        "roomForRent": false
+      },
+      {
+        "price": "$938+",
+        "beds": "3",
+        "roomForRent": false
+      }
+    ],
+    "latLong": {
+      "latitude": 28.952225,
+      "longitude": -95.96794
+    },
+    "providerListingId": "mmbvucfmtsdg",
+    "zpid": "28.952225--95.96794"
+  },
+  {
+    "detailUrl": "/apartments/hillsboro-tx/madison-highlands/5XhwC7/",
+    "statusType": "FOR_RENT",
+    "location_title": "Madison Highlands",
+    "address": "100 Highland St, Hillsboro, TX",
+    "units": [
+      {
+        "price": "$979+",
+        "beds": "1",
+        "roomForRent": false
+      },
+      {
+        "price": "$1,129+",
+        "beds": "2",
+        "roomForRent": false
+      }
+    ],
+    "latLong": {
+      "latitude": 32.01889,
+      "longitude": -97.09838
+    },
+    "providerListingId": "3tnpndqpge9q3",
+    "zpid": "32.01889--97.09838"
+  },
+  {
+    "detailUrl": "/apartments/angleton-tx/albion-apartments/5XhrwG/",
+    "statusType": "FOR_RENT",
+    "location_title": "Albion Apartments",
+    "address": "1300 Buchta Rd, Angleton, TX",
+    "units": [
+      {
+        "price": "$630+",
+        "beds": "1",
+        "roomForRent": false
+      },
+      {
+        "price": "$721+",
+        "beds": "2",
+        "roomForRent": false
+      },
+      {
+        "price": "$1,085+",
+        "beds": "3",
+        "roomForRent": false
+      }
+    ],
+    "latLong": {
+      "latitude": 29.187988,
+      "longitude": -95.40994
+    },
+    "providerListingId": "569fxeg1bykxq",
+    "zpid": "29.187988--95.40994"
+  },
+  {
+    "detailUrl": "/apartments/san-marcos-tx/legacy-square/Cjj2xx/",
+    "statusType": "FOR_RENT",
+    "location_title": "Legacy Square",
+    "address": "117 Joyful Ln, San Marcos, TX",
+    "units": [
+      {
+        "price": "$1,373+",
+        "beds": "1",
+        "roomForRent": false
+      },
+      {
+        "price": "$1,551+",
+        "beds": "2",
+        "roomForRent": false
+      }
+    ],
+    "latLong": {
+      "latitude": 29.836754,
+      "longitude": -97.93069
+    },
+    "providerListingId": "1gph4z486n6uv",
+    "zpid": "29.836754--97.93069"
+  },
+  {
+    "detailUrl": "/apartments/marble-falls-tx/parchaus-at-mustang-drive/CkCgWz/",
+    "statusType": "FOR_RENT",
+    "location_title": "parcHAUS at Mustang Drive",
+    "address": "1601 Mustang Dr, Marble Falls, TX",
+    "units": [
+      {
+        "price": "$1,515+",
+        "beds": "1",
+        "roomForRent": false
+      },
+      {
+        "price": "$1,880+",
+        "beds": "2",
+        "roomForRent": false
+      },
+      {
+        "price": "$2,225+",
+        "beds": "3",
+        "roomForRent": false
+      }
+    ],
+    "latLong": {
+      "latitude": 30.579338,
+      "longitude": -98.25678
+    },
+    "providerListingId": "r3pzyeqyjjx9",
+    "zpid": "30.579338--98.25678"
+  },
+  {
+    "detailUrl": "/apartments/lavon-tx/yardly-elevon/CdzRFT/",
+    "statusType": "FOR_RENT",
+    "location_title": "Yardly Elevon",
+    "address": "200 Villas Dr, Lavon, TX",
+    "units": [
+      {
+        "price": "$1,750+",
+        "beds": "1",
+        "roomForRent": false
+      },
+      {
+        "price": "$1,971+",
+        "beds": "2",
+        "roomForRent": false
+      }
+    ],
+    "latLong": {
+      "latitude": 33.007782,
+      "longitude": -96.44368
+    },
+    "providerListingId": "52z0rknmw17b3",
+    "zpid": "33.007782--96.44368"
+  },
+  {
+    "detailUrl": "/apartments/midland-tx/trinity-place/5XhxVf/",
+    "statusType": "FOR_RENT",
+    "location_title": "Trinity Place",
+    "address": "3600 N Midland Dr, Midland, TX",
+    "units": [
+      {
+        "price": "$1,165+",
+        "beds": "1",
+        "roomForRent": false
+      },
+      {
+        "price": "$1,445+",
+        "beds": "2",
+        "roomForRent": false
+      }
+    ],
+    "latLong": {
+      "latitude": 32.019283,
+      "longitude": -102.14153
+    },
+    "providerListingId": "3h24z4gau7g7x",
+    "zpid": "32.019283--102.14153"
+  },
+  {
+    "detailUrl": "/apartments/orange-tx/camelot-apartments/9T27My/",
+    "statusType": "FOR_RENT",
+    "location_title": "Camelot Apartments",
+    "address": "3345 W Park Ave, Orange, TX",
+    "units": [
+      {
+        "price": "$883+",
+        "beds": "1",
+        "roomForRent": false
+      },
+      {
+        "price": "$1,028+",
+        "beds": "2",
+        "roomForRent": false
+      }
+    ],
+    "latLong": {
+      "latitude": 30.109373,
+      "longitude": -93.770615
+    },
+    "providerListingId": "55hnvjwvaay61",
+    "zpid": "30.109373--93.770615"
+  }
+]
